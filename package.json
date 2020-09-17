@@ -1,0 +1,25 @@
+{
+  "name": "jest-no-if",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtom90/jest-no-if.git"
+  },
+  "author": "David Thomason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtom90/jest-no-if/issues"
+  },
+  "homepage": "https://github.com/dtom90/jest-no-if#readme",
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-plugin-jest": "^24.0.1",
+    "jest": "^26.4.2"
+  }
+}
